@@ -1,6 +1,6 @@
 # [Projeto pessoal] To-do List simples
 
-> **Desenvolvedores:** Aécio José
+> **Desenvolvedores:** Aécio José <br>
 > **Nível:** Básico
 
 ## Qual a ideia do projeto?
